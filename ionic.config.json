@@ -1,0 +1,7 @@
+{
+  "name": "Deenarbay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
